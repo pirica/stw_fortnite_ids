@@ -1,4 +1,3 @@
-ID	NAME	CB	CB Tab	NOTES
 Hero:hid_ninja_007_sr_t01	Brawler Luna	Ninjas		
 Hero:hid_ninja_008_sr_t01	Stonefoot Crash	Ninjas		
 Hero:hid_ninja_009_f_valentine_sr_t01	Snuggle Specialist Sarah	Event People	Springtime Heroes	
