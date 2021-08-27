@@ -1,0 +1,54 @@
+ID	NAME	CB	CB Tab	NOTES
+Hero:hid_ninja_007_sr_t01	Brawler Luna	Ninjas		
+Hero:hid_ninja_008_sr_t01	Stonefoot Crash	Ninjas		
+Hero:hid_ninja_009_f_valentine_sr_t01	Snuggle Specialist Sarah	Event People	Springtime Heroes	
+Hero:hid_ninja_009_sr_t01	Skirmisher Edge	Ninjas		
+Hero:hid_ninja_010_f_sr_t01	Deadly Blade Crash	Expansion People	Storm Zone Heroes	
+Hero:hid_ninja_010_sr_t01	Deadly Star Scorpion	Ninjas		
+Hero:hid_ninja_011_sr_t01	Energy Thief Mari	Expansion People	Scavenger Heroes	
+Hero:hid_ninja_013_sr_t01	Alchemist Sarah	Event People	Holiday Heroes	
+Hero:hid_ninja_014_f_sr_t01	Thunderstrike Mari	Event People	Chinese New Year Heroes	
+Hero:hid_ninja_014_sr_t01	Whirlwind Scorch	Event People	Chinese New Year Heroes	
+Hero:hid_ninja_015_f_v1_roadtrip_sr_t01	Whiteout Fiona	Event People	Road Trip Heroes	
+Hero:hid_ninja_015_f_v1_sr_t01	Harvester Sarah	Expansion People	CyberPunk Heroes	
+Hero:hid_ninja_016_f_v1_sr_t01	Deadly Lotus Luna	Expansion People	ShadowOps Heroes	
+Hero:hid_ninja_016_m_v1_sr_t01	Piercing Lotus Edge	Expansion People	ShadowOps Heroes	
+Hero:hid_ninja_017_m_v1_sr_t01	Infiltrator Ken	Event People	Wild West Heroes	
+Hero:hid_ninja_018_sr_t01	Plague Doctor Igor	Event People	Fortnitemares Heroes	
+Hero:hid_ninja_019_sr_t01	Dire	Event People	Fortnitemares Heroes	
+Hero:hid_ninja_020_sr_t01	Cloaked Shadow	Event People	Holiday Heroes	
+Hero:hid_ninja_021_sr_t01	Forged Fate	Ninjas		
+Hero:hid_ninja_022_sr_t01	Overtaker Hiro	Ninjas		
+Hero:hid_ninja_023_sr_t01	Lynx Kassandra	Event People	Holiday Heroes	
+Hero:hid_ninja_024_sr_t01	Anti-Cuddle Sarah	Event People	Springtime Heroes	
+Hero:hid_ninja_025_pirateninja_sr_t01	Swashbuckler Keelhaul	Event People	Pirate Heroes	
+Hero:hid_ninja_026_reddragonninja_sr_t01	Hybrid	Event People	Pirate Heroes	
+Hero:hid_ninja_027_bunnyninja_sr_t01	Dashing Hare Ken	Event People	Springtime Heroes	
+Hero:hid_ninja_028_razor_sr_t01	Razor	Promotional People	Battle Breakers!!	
+Hero:hid_ninja_029_dinoninja_sr_t01	Paleo Luna	Event People	Historic Heroes	
+Hero:hid_ninja_030_retroscifininja_sr_t01	Intergalactic Ken	Event People	Retro SciFi Heroes	
+Hero:hid_ninja_031_radninja_sr_t01	Varsity Hiro	Event People	Rad Heroes	
+Hero:hid_ninja_033_halloweenninja_sr_t01	Mermonster Ken	Event People	Fortnitemares Heroes	
+Hero:hid_ninja_034_toymonkey_sr_t01	Monks	Event People	Holiday Heroes	
+Hero:hid_ninja_035_f_cupid_sr_t01	Stoneheart Farrah	Event People	Springtime Heroes	
+Hero:hid_ninja_037_junk_samurai_sr_t01	Samurai Scrapper	Starter Packs	Samurai Scrapper	
+Hero:hid_ninja_038_male_ninja_pirate_sr_t01	Freebooter Ken	Event People	Pirate Heroes	
+Hero:hid_ninja_039_dino_ninja_sr_t01	Jurassic Ken	Event People	Historic Heroes	
+Hero:hid_ninja_040_dennis_sr_t01	Dennis	Event People	Homebase Heroes	
+Hero:hid_ninja_041_deco_sr_t01	Venturion	Event People	Art Deco Heroes	
+Hero:hid_ninja_042_assembler_sr_t01	Robo-Ray	Starter Packs	Robo-Ray	
+Hero:hid_ninja_043_cranium_sr_t01	Deimos			May’s Fortnite Crew benefits
+Hero:hid_ninja_myth02_sr_t01	The Cloaked Star	Event People	Blockbusters Heroes	
+Hero:hid_ninja_myth03_sr_t01	Bladestorm Enforcer	Event People	Spy Heroes	
+Hero:hid_ninja_slashbreath_sr_t01	Dragon Scorch	Ninjas		
+Hero:hid_ninja_slashbreathhw_sr_t01	Sarah Hotep	Event People	Fortnitemares Heroes	
+Hero:hid_ninja_slashtail_sr_t01	Fleetfoot Ken	Ninjas		
+Hero:hid_ninja_smokedimmak_sr_t01	Dim Mak Mari	Ninjas		
+Hero:hid_ninja_sony_sr_t01	Bluestreak Ken			Pre-Order bonus for purchasing Fortnite on the Playstation 4 Console.
+Hero:hid_ninja_starsassassin_foundersf_sr_t01	Lotus Assassin Sarah			Limited Edition Founder’s Pack
+Hero:hid_ninja_starsassassin_foundersm_sr_t01	Lotus Assassin Ken			Limited Edition Founder’s Pack
+Hero:hid_ninja_starsassassin_sr_t01	Assassin Sarah	Ninjas		
+Hero:hid_ninja_starsrain_sr_t01	Shuriken Master Sarah	Ninjas		
+Hero:hid_ninja_starsrainhw_sr_t02	Swift Shuriken Llamurai	Event People	Fortnitemares Heroes	
+Hero:hid_ninja_swordmaster_sr_t01	Swordmaster Ken	Ninjas		
+Hero:hid_ninja_xbox_sr_t01	Jade Assassin Sarah			Pre-Order bonus for purchasing Fortnite on the Xbox One Console.
