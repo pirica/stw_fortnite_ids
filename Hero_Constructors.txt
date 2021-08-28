@@ -1,0 +1,52 @@
+Hero:hid_constructor_007_sr_t01	Controller Harper	Constructors		
+Hero:hid_constructor_007hw_sr_t01	Kyle the 13th	Event People	Fortnitemares Heroes	
+Hero:hid_constructor_008_foundersf_sr_t01	Power B.A.S.E. Penny			Limited Edition Founder’s Pack
+Hero:hid_constructor_008_foundersm_sr_t01	Power B.A.S.E. Kyle			Limited Edition Founder’s Pack
+Hero:hid_constructor_008_sr_t01	Power B.A.S.E. Knox	Constructors		
+Hero:hid_constructor_009_sr_t01	Sentinel Hype	Constructors		
+Hero:hid_constructor_010_sr_t01	Guardian Bull	Constructors		
+Hero:hid_constructor_011_f_v1_roadtrip_sr_t01	Thunder Thora	Event People	Road Trip Heroes	
+Hero:hid_constructor_011_sr_t01	Machinist Harper	Expansion People	Scavenger Heroes	
+Hero:hid_constructor_013_sr_t01	Warden Kyle	Event People	Holiday Heroes	
+Hero:hid_constructor_014_f_sr_t01	Riot Control Izza	Event People	Chinese New Year Heroes	
+Hero:hid_constructor_014_sr_t01	Riot Response Hazard	Event People	Chinese New Year Heroes	
+Hero:hid_constructor_015_sr_t01	Heavy B.A.S.E. Kyle	Expansion People	CyberPunk Heroes	
+Hero:hid_constructor_016_f_v1_sr_t01	Demolitionist Penny	Expansion People	ShadowOps Heroes	
+Hero:hid_constructor_016_m_v1_blockbuster_sr_t01	8-Bit Demo	Event People	Blockbusters Heroes	
+Hero:hid_constructor_016_m_v1_sr_t01	Saboteur Bull	Expansion People	ShadowOps Heroes	
+Hero:hid_constructor_017_f_v1_sr_t01	Vintage-Tech Penny	Event People	Wild West Heroes	
+Hero:hid_constructor_018_sr_t01	Black Knight Garridan	Event People	Historic Heroes	
+Hero:hid_constructor_019_sr_t01	Sentry Gunner Airheart	Event People	Fortnitemares Heroes	
+Hero:hid_constructor_020_sr_t01	Sentry Gunner Krampus	Event People	Holiday Heroes	
+Hero:hid_constructor_021_sr_t01	Dark Vanguard Airheart	Constructors		
+Hero:hid_constructor_022_sr_t01	Conqueror Magnus	Constructors		
+Hero:hid_constructor_023_sr_t01	The Ice King	Event People	Holiday Heroes	
+Hero:hid_constructor_024_pirateconstructor_sr_t01	Privateer Hype	Event People	Pirate Heroes	
+Hero:hid_constructor_025_progressivepirate_sr_t01	Blakebeard The Blackhearted	Event People	Pirate Heroes	
+Hero:hid_constructor_026_bombsquadconstructor_sr_t01	BombSquad Kyle	Event People	Spy Heroes	
+Hero:hid_constructor_027_dinoconstructor_sr_t01	Prehistoric Izza	Event People	Historic Heroes	
+Hero:hid_constructor_028_retroscificonstructor_sr_t01	ED-EE	Event People	Retro SciFi Heroes	
+Hero:hid_constructor_029_radstoryconstructor_sr_t01	Dennis Jr.	Event People	Rad Heroes	
+Hero:hid_constructor_030_radconstructor_sr_t01	Power Pop Penny	Event People	Rad Heroes	
+Hero:hid_constructor_031_halloweenconstructor_sr_t02	"Arrlene" Izza	Event People	Fortnitemares Heroes	
+Hero:hid_constructor_032_toyconstructor_sr_t01	Sgt. Tank Gatling	Event People	Holiday Heroes	
+Hero:hid_constructor_033_villain_fleming_sr_t01	Gold Knox	Event People	Spy Heroes	
+Hero:hid_constructor_034_mechstructor_sr_t01	Machinist Mina	Starter Packs	Machinist Mina	
+Hero:hid_constructor_035_birthday_constructor_sr_t01	Birthday Brigade Penny	Event People	Birthday Heroes	
+Hero:hid_constructor_036_dino_constructor_sr_t01	Ankylo Kyle	Event People	Historic Heroes	
+Hero:hid_constructor_037_director_sr_t01	Director Riggs	Event People	Homebase Heroes	
+Hero:hid_constructor_038_gumshoe_sr_t01	Sleuth	Event People	Art Deco Heroes	
+Hero:hid_constructor_039_assemble_L_sr_t01	Lok-Bot	Starter Packs	Lok-Bot	
+Hero:hid_constructor_basebig_sr_t01	MEGA B.A.S.E. Kyle	Constructors		
+Hero:hid_constructor_basehyper_sr_t01	Hotfixer Hazard	Constructors		
+Hero:hid_constructor_basehyperhw_sr_t02	Catstructor Penny	Event People	Fortnitemares Heroes	
+Hero:hid_constructor_hammerplasma_4thjuly_sr_t01	Patriot Penny	Event People	Springtime Heroes	
+Hero:hid_constructor_hammerplasma_sr_t01	Electro-pulse Penny	Constructors		
+Hero:hid_constructor_hammertank_sr_t01	Tank Penny	Constructors		
+Hero:hid_constructor_myth02_sr_t01	Steel Wool Syd	Event People	Steel Wool	
+Hero:hid_constructor_plasmadamage_easter_sr_t01	Miss Bunny Penny	Event People	Springtime Heroes	
+Hero:hid_constructor_plasmadamage_sr_t01	Plasma Specialist Izza	Constructors		
+Hero:hid_constructor_rushbase_f_sr_t01	Marathon Hype	Expansion People	Storm Zone Heroes	
+Hero:hid_constructor_rushbase_sr_t01	B.A.S.E. Kyle	Constructors		
+Hero:hid_constructor_sony_sr_t01	Guardian Penny			Pre-Order bonus for purchasing Fortnite on the Playstation 4 Console.
+Hero:hid_constructor_xbox_sr_t01	Guardian Knox			Pre-Order bonus for purchasing Fortnite on the Xbox One Console.
