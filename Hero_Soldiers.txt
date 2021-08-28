@@ -1,0 +1,71 @@
+Hero:hid_commando_007_sr_t01	Support Specialist Hawk	Soldiers		
+Hero:hid_commando_007hw_rs01_sr_t01	Brainiac Jonesy	Event People	Fortnitemares Heroes	
+Hero:hid_commando_007hw_sr_t02	Ghoul Trooper Ramirez	Event People	Fortnitemares Heroes	
+Hero:hid_commando_007hw_vr_t01	Ghoul Trooper Ramirez	Event People	Fortnitemares Heroes	
+Hero:hid_commando_008_foundersf_sr_t01	Special Forces Ramirez			Limited Edition Founder’s Pack
+Hero:hid_commando_008_foundersm_sr_t01	Special Forces Jonesy			Limited Edition Founder’s Pack
+Hero:hid_commando_008_sr_t01	Special Forces Banshee	Soldiers		
+Hero:hid_commando_009_m_vr_t01	Centurion Hawk	Expansion People	Storm Zone Heroes	
+Hero:hid_commando_009_sr_t01	Colonel Wildcat	Soldiers		
+Hero:hid_commando_010_bday_sr_t01	Birthday Brigade Ramirez	Event People	Birthday Heroes	
+Hero:hid_commando_010_sr_t01	Sergeant Jonesy	Soldiers		
+Hero:hid_commando_011_f_v1_roadtrip_sr_t01	Redline Ramirez	Event People	Road Trip Heroes	
+Hero:hid_commando_011_m_easter_sr_t01	Rabbit Raider Jonesy	Event People	Springtime Heroes	
+Hero:hid_commando_011_m_sr_t01	Buckshot Raptor	Soldiers		
+Hero:hid_commando_011_sr_t01	Shrapnel Headhunter	Expansion People	Scavenger Heroes	
+Hero:hid_commando_013_sr_t01	Demolisher Jonesy	Event People	Holiday Heroes	
+Hero:hid_commando_013_stpatricks_f_v1_sr_t01	Four Leaf Wildcat	Event People	Springtime Heroes	
+Hero:hid_commando_013_stpatricks_f_v2_sr_t01	Highland Warrior Wildcat	Event People	Springtime Heroes	
+Hero:hid_commando_013_stpatricks_m_sr_t01	Battle Hound Jonesy	Event People	Springtime Heroes	
+Hero:hid_commando_014_m_sr_t01	Berserker Renegade	Event People	Chinese New Year Heroes	
+Hero:hid_commando_014_sr_t01	Onslaught Headhunter	Event People	Chinese New Year Heroes	
+Hero:hid_commando_014_wukong_sr_t01	Wukong	Event People	Chinese New Year Heroes	
+Hero:hid_commando_015_f_v1_blockbuster_sr_t01	Chromium Ramirez	Event People	Blockbusters Heroes	
+Hero:hid_commando_015_m_v1_blockbuster_sr_t01	Diecast Jonesy	Event People	Blockbusters Heroes	
+Hero:hid_commando_015_m_v1_sr_t01	Bullet Storm Jonesy	Expansion People	CyberPunk Heroes	
+Hero:hid_commando_016_f_v1_sr_t01	Double Agent Evelynn	Expansion People	ShadowOps Heroes	
+Hero:hid_commando_016_m_v1_sr_t01	Undercover Vaughn	Expansion People	ShadowOps Heroes	
+Hero:hid_commando_017_f_v1_r_t01	First Shot Rio	Event People	Wild West Heroes	
+Hero:hid_commando_018_sr_t01	Quickdraw Calamity	Event People	Wild West Heroes	
+Hero:hid_commando_019_sr_t01	Steel Wool Carlos	Event People	Steel Wool	
+Hero:hid_commando_021_sr_t01	Liteshow Spitfire	Soldiers		
+Hero:hid_commando_022_sr_t01	Archetype Havoc	Soldiers		
+Hero:hid_commando_023_sr_t01	Jolly Headhunter	Event People	Holiday Heroes	
+Hero:hid_commando_024_sr_t01	Sgt. Winter	Event People	Holiday Heroes	
+Hero:hid_commando_025_sr_t01	Crackshot	Event People	Holiday Heroes	
+Hero:hid_commando_026_sr_t01	Fallen Love Ranger Jonesy	Event People	Springtime Heroes	
+Hero:hid_commando_027_piratesoldier_sr_t01	Buccaneer Jonesy	Event People	Pirate Heroes	
+Hero:hid_commando_028_bunnybrawler_sr_t01	Bunny Brawler Luna	Event People	Springtime Heroes	
+Hero:hid_commando_029_dinosoldier_sr_t01	Rex Jonesy	Event People	Historic Heroes	
+Hero:hid_commando_030_retroscifisoldier_sr_t01	Extraterrestrial Rio	Event People	Retro SciFi Heroes	
+Hero:hid_commando_031_radsoldier_sr_t01	Breakbeat Wildcat	Event People	Rad Heroes	
+Hero:hid_commando_032_halloweensoldier_sr_t01	JONESEE-BOT	Event People	Fortnitemares Heroes	
+Hero:hid_commando_033_halloweenquestsoldier_sr_t01	Swamp Knight	Event People	Fortnitemares Heroes	
+Hero:hid_commando_034_toytinkerer_sr_t01	Ted	Event People	Holiday Heroes	
+Hero:hid_commando_035_caped_valentine_sr_t01	Dashing Hawk	Event People	Springtime Heroes	
+Hero:hid_commando_038_shock_wave_sr_t01	Powerhouse	Starter Packs	Powerhouse	
+Hero:hid_commando_039_pajama_party_sr_t01	Tricera Ops Ramirez	Event People	Historic Heroes	
+Hero:hid_commando_040_pirate_br_sr_t01	Buccaneer Ramirez	Event People	Pirate Heroes	
+Hero:hid_commando_041_pirate_02_br_sr_t01	Sea Wolf Jonesy	Event People	Pirate Heroes	
+Hero:hid_commando_042_major_sr_t01	Major Oswald	Event People	Homebase Heroes	
+Hero:hid_commando_044_gumshoe_dark_sr_t01	Noir	Event People	Art Deco Heroes	
+Hero:hid_commando_gcgrenade_sr_t01	Commando Spitfire	Soldiers		
+Hero:hid_commando_gcgrenade_t_sr_t01	Sub Commando Jonesy			Twitch Prime Pack 1
+Hero:hid_commando_grenadegun_m_t_sr_t01	Rescue Trooper Havoc			Twitch Prime Pack 1
+Hero:hid_commando_grenadegun_sr_t01	Rescue Trooper Ramirez	Soldiers		
+Hero:hid_commando_grenademaster_sr_t01	Master Grenadier Ramirez	Soldiers		
+Hero:hid_commando_gunheadshot_m_v1_roadtrip_sr_t01	Tactical Assault Sledgehammer	Event People	Road Trip Heroes	
+Hero:hid_commando_gunheadshot_sr_t01	Urban Assault Headhunter	Soldiers		
+Hero:hid_commando_gunheadshot_starter_m_sr_t01	Rogue Agent Jonesy			
+Hero:hid_commando_gunheadshothw_rs01_sr_t01	Skull Ranger Ramirez	Event People	Fortnitemares Heroes	
+Hero:hid_commando_gunheadshothw_sr_t01	Skull Trooper Jonesy	Event People	Fortnitemares Heroes	
+Hero:hid_commando_guntough_f_4thjuly_sr_t01	Star-Spangled Headhunter	Event People	Springtime Heroes	
+Hero:hid_commando_guntough_m_4thjuly_sr_t01	Stars and Stripes Jonesy	Event People	Springtime Heroes	
+Hero:hid_commando_guntough_rs01_sr_t01	Birthday Brigade Jonesy	Event People	Birthday Heroes	
+Hero:hid_commando_guntough_sr_t01	Survivalist Jonesy	Soldiers		
+Hero:hid_commando_guntough_valentine_sr_t01	Love Ranger Jonesy	Event People	Springtime Heroes	
+Hero:hid_commando_myth02_sr_t01	Raven	Event People	Blockbusters Heroes	
+Hero:hid_commando_myth03_sr_t01	Carbide	Event People	Blockbusters Heroes	
+Hero:hid_commando_shockdamage_sr_t01	Shock Trooper Renegade	Soldiers		
+Hero:hid_commando_sony_sr_t01	Commando Ramirez			Pre-Order bonus for purchasing Fortnite on the Playstation 4 Console.
+Hero:hid_commando_xbox_sr_t01	Commando Renegade			Pre-Order bonus for purchasing Fortnite on the Xbox One Console.
