@@ -5,5 +5,5 @@
 
 
 
-<b>Last changes:</b>
+<b>Changelog:</b>
 + Hero:hid_constructor_040_lars_sr_t01	Lars
