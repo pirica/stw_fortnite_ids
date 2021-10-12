@@ -6,4 +6,4 @@
 
 
 <b>Changelog:</b>
-+ Hero:hid_constructor_040_lars_sr_t01	Lars
++ Hero:hid_commando_045_chaos_agent_sr_t01	Chaos Agent		Event People	Fortnitemares Heroes
