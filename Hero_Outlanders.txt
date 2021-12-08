@@ -36,7 +36,8 @@ Hero:hid_outlander_035_palespooky_outlander_holiday_sr_t01	Red Willow	Event Peop
 Hero:hid_outlander_036_dino_outlander_sr_t01	Parasaur Jess	Event People	Historic Heroes	
 Hero:hid_outlander_037_fuzzy_bear_teddy_sr_t01	Metal Team Leader	Starter Packs	Metal Team Leader	
 Hero:hid_outlander_038_clip_sr_t01	Cassie "Clip" Lipman	Event People	Homebase Heroes	
-Hero:hid_outlander_039_female_gumshoe_sr_t01	Gumshoe	Event People	Art Deco Heroes	
+Hero:hid_outlander_039_female_gumshoe_sr_t01	Gumshoe	Event People	Art Deco Heroes
+Hero:hid_outlander_040_assemblek_sr_t01		Robo-Kevin		Starter Packs		Robo-Kevin
 Hero:hid_outlander_myth02_sr_t01	Ragnarok	Event People	Road Trip Heroes	
 Hero:hid_outlander_myth03_sr_t01	Field Agent Rio	Event People	Spy Heroes	
 Hero:hid_outlander_punchdamage_sr_t01	Striker A.C.	Outlanders		
