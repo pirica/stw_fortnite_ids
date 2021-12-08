@@ -2,7 +2,7 @@
 
 
 <b>Changelog: 08-Dec-2021</b>
-+ Hero:hid_outlander_040_AssembleK_SR_T01		Robo-Kevin		Starter Packs		Robo-Kevin
++ Hero:hid_outlander_040_assemblek_sr_t01		Robo-Kevin		Starter Packs		Robo-Kevin
 
 
 
