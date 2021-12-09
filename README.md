@@ -13,10 +13,11 @@
 
 <br>
 <br>
-<b>My Email:</b>
-- 📫 nelson dot salvador at gmail dot com
+<b>My Email:</b><br>
+ 📫 nelson dot salvador at gmail dot com
 <br>
 <br>
-- Epic: ASM_PiRiCa_PT
+<b>My Epic:</b><br>
+ASM_PiRiCa_PT
 <br>
 <br>
