@@ -7,7 +7,7 @@
 <br>
 <br>
 <b>06-Mar-2022</b><br>
-+Hero:hid_outlander_041_dinocollector_sr_t01		Gia		Event People	Wild Heroes
++ Hero:hid_outlander_041_dinocollector_sr_t01		Gia		Event People	Wild Heroes<br>
 <br>
 <b>08-Dec-2021</b><br>
 + Hero:hid_outlander_040_assemblek_sr_t01		Robo-Kevin		Starter Packs		Robo-Kevin<br>
