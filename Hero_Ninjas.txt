@@ -36,7 +36,8 @@ Hero:hid_ninja_039_dino_ninja_sr_t01	Jurassic Ken	Event People	Historic Heroes
 Hero:hid_ninja_040_dennis_sr_t01	Dennis	Event People	Homebase Heroes	
 Hero:hid_ninja_041_deco_sr_t01	Venturion	Event People	Art Deco Heroes	
 Hero:hid_ninja_042_assembler_sr_t01	Robo-Ray	Starter Packs	Robo-Ray	
-Hero:hid_ninja_043_cranium_sr_t01	Deimos			May’s Fortnite Crew benefits
+Hero:hid_ninja_043_cranium_sr_t01	Deimos	May’s Fortnite Crew benefits
+Hero:hid_ninja_044_fennix_sr_T01	Fennix	Event People	Wild Heroes
 Hero:hid_ninja_myth02_sr_t01	The Cloaked Star	Event People	Blockbusters Heroes	
 Hero:hid_ninja_myth03_sr_t01	Bladestorm Enforcer	Event People	Spy Heroes	
 Hero:hid_ninja_slashbreath_sr_t01	Dragon Scorch	Ninjas		
