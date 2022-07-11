@@ -6,6 +6,9 @@
 <b>Changelog:</b> 
 <br>
 <br>
+<b>11-Jul-2022</b><br>
++ Hero:hid_ninja_044_fennix_sr_T01		Fennix		Event People	Wild Heroes<br>
+<br>
 <b>06-Mar-2022</b><br>
 + Hero:hid_outlander_041_dinocollector_sr_t01		Gia		Event People	Wild Heroes<br>
 <br>
