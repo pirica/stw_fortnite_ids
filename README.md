@@ -19,7 +19,7 @@
 + Hero:hid_commando_045_chaos_agent_sr_t01		Chaos Agent		Event People		Fortnitemares Heroes<br>
 <br>
 <b>01-Nov-2022</b><br>
-Hero:hid_constructor_41_alien_agent_sr_t01 Brainstorm
++ Hero:hid_constructor_41_alien_agent_sr_t01 Brainstorm
 <br>
 <br>
 <b>My Email:</b><br>
