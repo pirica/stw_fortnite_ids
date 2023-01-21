@@ -8,7 +8,7 @@
 <br>
 
 <b>18-Jan-2022</b><br>
-+ Hero:hid_commando_046_forestqueen_sr_t01	Autumn Queen		Soldiers	
++ Hero:hid_commando_046_forestqueen_sr_t01	Autumn Queen		Soldiers<br>
 <br>
 <b>11-Jul-2022</b><br>
 + Hero:hid_ninja_044_fennix_sr_t01		Fennix		Event People	Wild Heroes<br>
