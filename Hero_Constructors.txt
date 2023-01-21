@@ -38,7 +38,7 @@ Hero:hid_constructor_037_director_sr_t01	Director Riggs	Event People	Homebase He
 Hero:hid_constructor_038_gumshoe_sr_t01	Sleuth	Event People	Art Deco Heroes	
 Hero:hid_constructor_039_assemble_L_sr_t01	Lok-Bot	Starter Packs	Lok-Bot
 Hero:hid_constructor_040_lars_sr_t01	Lars	Starter Packs	Lars
-Hero:hid_constructor_41_alien_agent_sr_t01	Brainstorm
+Hero:hid_constructor_41_alien_agent_sr_t01	Brainstorm	Event People	Fortnitemares Heroes
 Hero:hid_constructor_basebig_sr_t01	MEGA B.A.S.E. Kyle	Constructors		
 Hero:hid_constructor_basehyper_sr_t01	Hotfixer Hazard	Constructors		
 Hero:hid_constructor_basehyperhw_sr_t02	Catstructor Penny	Event People	Fortnitemares Heroes	
