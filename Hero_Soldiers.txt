@@ -50,6 +50,7 @@ Hero:hid_commando_041_pirate_02_br_sr_t01	Sea Wolf Jonesy	Event People	Pirate He
 Hero:hid_commando_042_major_sr_t01	Major Oswald	Event People	Homebase Heroes	
 Hero:hid_commando_044_gumshoe_dark_sr_t01	Noir	Event People	Art Deco Heroes
 Hero:hid_commando_045_chaos_agent_sr_t01	Chaos Agent		Event People	Fortnitemares Heroes
+Hero:hid_commando_046_forestqueen_sr_t01	Autumn Queen		Soldiers	
 Hero:hid_commando_gcgrenade_sr_t01	Commando Spitfire	Soldiers		
 Hero:hid_commando_gcgrenade_t_sr_t01	Sub Commando Jonesy			Twitch Prime Pack 1
 Hero:hid_commando_grenadegun_m_t_sr_t01	Rescue Trooper Havoc			Twitch Prime Pack 1
