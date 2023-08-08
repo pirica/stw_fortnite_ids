@@ -7,13 +7,13 @@
 <br>
 <br>
 <b>09-Aug-2023</b><br>
-+ Hero:hid_commando_047_prickly_patroller_sr_t05<br>
++ Hero:hid_commando_047_prickly_patroller_sr_t05		Prickly Patroller Ramirez<br>
 <br>
 <b>18-Jan-2022</b><br>
-+ Hero:hid_commando_046_forestqueen_sr_t05	Autumn Queen		Soldiers<br>
++ Hero:hid_commando_046_forestqueen_sr_t05		Autumn Queen		Soldiers<br>
 <br>
 <b>11-Jul-2022</b><br>
-+ Hero:hid_ninja_044_fennix_sr_t05		Fennix		Event People	Wild Heroes<br>
++ Hero:hid_ninja_044_fennix_sr_t05		Fennix	Event People	Wild Heroes<br>
 <br>
 <b>06-Mar-2022</b><br>
 + Hero:hid_outlander_041_dinocollector_sr_t05		Gia		Event People	Wild Heroes<br>
@@ -25,7 +25,7 @@
 + Hero:hid_commando_045_chaos_agent_sr_t05		Chaos Agent		Event People		Fortnitemares Heroes<br>
 <br>
 <b>01-Nov-2022</b><br>
-+ Hero:hid_constructor_41_alien_agent_sr_t05	Brainstorm	Event People	Fortnitemares Heroes
++ Hero:hid_constructor_41_alien_agent_sr_t05		Brainstorm	Event People	Fortnitemares Heroes
 <br>
 <br>
 <b>My Email:</b><br>
