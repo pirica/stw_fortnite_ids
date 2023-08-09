@@ -7,7 +7,7 @@
 <br>
 <br>
 <b>09-Aug-2023</b><br>
-+ Hero:hid_commando_047_prickly_patroller_sr_t05		Prickly Patroller Ramirez<br>
++ Hero:hid_commando_047_prickly_patroller_sr_t05		Prickly Patroller Ramirez		Soldiers<br>
 <br>
 <b>18-Jan-2022</b><br>
 + Hero:hid_commando_046_forestqueen_sr_t05		Autumn Queen		Soldiers<br>
